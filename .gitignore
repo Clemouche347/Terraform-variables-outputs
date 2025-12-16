@@ -1,0 +1,13 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform working directory
+.terraform/
+
+# Crash log files
+crash.log
+
+# OS files
+.DS_Store
+
